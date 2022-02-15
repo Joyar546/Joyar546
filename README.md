@@ -15,7 +15,7 @@ My interest is in Deep Learning
       <img src="https://github-readme-stats.vercel.app/api?username=Joyar546&hide=javascript,html&show_icons=true&theme=algolia">
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia&hide=javascript,html,TypeScript,CSS">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joyar546&layout=compact&theme=algolia&hide=javascript,html,TypeScript,CSS">
     </td>
 
   </tr>
