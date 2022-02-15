@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <table width="100%"> 
     <tr>
       <td width="100%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joyar546&amp;langs_count=8&amp;theme=algolia">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joyar546&hide=javascript,html,Jupyter Notebook&amp;langs_count=8&amp;theme=algolia">
       </td>
     </tr>
   </table>
