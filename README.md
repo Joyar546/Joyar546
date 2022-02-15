@@ -12,7 +12,7 @@ My interest is in Deep Learning
   <table width="100%"> 
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Joyar546&hide=javascript,html,Jupyter Notebook&show_icons=true&theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api?username=Joyar546&hide=javascript,html&show_icons=true&theme=algolia">
     </td>
     <td width="50%">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joyar546&hide=javascript,html&layout=compact&langs_count=8&theme=algolia">
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <table width="100%"> 
     <tr>
       <td width="100%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joyar546&hide=javascript,html,Jupyter Notebook&amp;langs_count=8&amp;theme=algolia">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joyar546&hide=javascript,html&amp;langs_count=8&amp;theme=algolia">
       </td>
     </tr>
   </table>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <table width="200%"> 
     <tr>
       <td width="200%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joyar546&hide=javascript,html,Jupyter Notebook&layout=compact&langs_count=8&theme=highcontrast">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joyar546&hide=javascript,html&layout=compact&langs_count=8&theme=highcontrast">
       </td>
     </tr>
   </table>
