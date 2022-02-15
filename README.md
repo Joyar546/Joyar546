@@ -12,16 +12,16 @@ My interest is in Breeding robot
   <table width="100%"> 
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=itt-icc&hide=javascript,html,Jupyter Notebook&show_icons=true&theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api?username=Joyar546&hide=javascript,html,Jupyter Notebook&show_icons=true&theme=algolia">
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itt-icc&hide=javascript,html,Jupyter Notebook&layout=compact&langs_count=8&theme=algolia">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joyar546&hide=javascript,html,Jupyter Notebook&layout=compact&langs_count=8&theme=algolia">
     </td>
 
   </tr>
 </table>
 <!--
-**itt-icc/itt-icc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Joyar546/Joyar546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
