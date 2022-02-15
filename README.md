@@ -45,12 +45,5 @@ Here are some ideas to get you started:
 
 
   
-  <table width="200%"> 
-    <tr>
-      <td width="200%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joyar546
-&hide=javascript,html,Jupyter Notebook&layout=compact&langs_count=8&theme=highcontrast">
-      </td>
-    </tr>
-  </table>
+
 -->
