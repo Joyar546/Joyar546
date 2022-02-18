@@ -6,7 +6,7 @@ My interest is in Deep Learning
   <img src="https://profile-counter.glitch.me/Joyar546/count.svg" />
 </p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyar546)](https://github.com/anuraghazra/github-readme-stats)
   
   
   <table width="100%"> 
