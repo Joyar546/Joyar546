@@ -1,7 +1,7 @@
 # Hi there 👋 
 A graduate student of Zhejiang University, major in agricultural engineering.
 
-# Contact me
+# Contact me 📫
 - https://github.com/Joyar546
 - niu_ziang@zju.edu.cn
 
